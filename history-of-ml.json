@@ -1,0 +1,97 @@
+{
+    "title": {
+        "media": {
+            "url": "https://media.wired.co.uk/photos/614cb0c6475c1a299135c8df/16:9/w_2560,c_limit/Foundation_Photo_010110.jpg",
+            "caption": "An image still from the APPLE TV series, Foundation. I think it's pretty metal.",
+            "credit": "Wired Media/<a href='https://media.wired.co.uk/photos/614cb0c6475c1a299135c8df/16:9/w_2560,c_limit/Foundation_Photo_010110.jpg'>UK</a>"
+    
+        },
+        "text": {
+            "headline": "The Age of AI<br/> 1950 - When the fat lady sings",
+            "text": "<p>Before we begin, this isn’t an introductory article into Artificial Intelligence (AI) or Machine Learning (ML). That is a beaten path, and the internet provides many resources for that. However, if you need a refresher, see the next slide.</p>"
+        }
+   },
+   "events": [
+        {
+            "media": {
+                "url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F523596d0-e12c-4169-9832-d9d29ddcbb19_888x499.png",
+                "caption": "I made this meme and I quite like it.",
+                "credit": "All credit goes to twitter tbh, they make the best memes there."
+            },
+            "start_date": {
+                "year": "1763"
+            },
+            "text": {
+                "headline": "A lot of math happened",
+                "text": "<p>Between 1763 and 1940, a lot of math was invented that ended up becoming the foundations for what we know about AI today. You can read all about that, let's get to the juicy stuff -- the 50s-90s, hehe!</p>",
+            }
+        },
+        {
+            "media": {
+                "url": "https://educahistoria.com/wp-content/uploads/2023/07/alanturing3-1080x675.png",
+                "caption": "This cheeky nerd here, is Alan Turing. The guy who first thought that hey maybe computer could think!"
+            },
+            "start_date": {
+                "year": "1950"
+            },
+            "text": {
+                "headline": "Summer camps and Alan Turing (early ‘50s)",
+                "text": "‘Artificial Intelligence’ as a term was coined, and the field was birthed during the Dartmouth Summer Research Project, and Alan Turing created the Turing Test."
+            }
+        },
+        {
+            "media": {
+                "url": "https://th.bing.com/th/id/R.8ae6c77e39acfa6dddd161a234310e6d?rik=so011vuYCGE%2bpQ&riu=http%3a%2f%2frobohub.org%2fwp-content%2fuploads%2f2017%2f02%2fshakey-01.jpeg&ehk=53iWuB7SakbKq9gTpihH8VqRXc%2bDphM%2bYR%2bl3pvbPWk%3d&risl=&pid=ImgRaw&r=0",
+                "caption": "Here we have 'Shakey the Robot', class act of the golden era."
+            },
+            "start_date": {
+                "year": "1974"
+            },
+            "text": {
+                "headline": "The Golden Years (’56 - ‘74)",
+                "text": "Marvin Minsky claimed 'AI will be solved in a generation', robots were being made to do tasks and an AI chatbot therapist called 'Eliza' was the talk of the town. Neat stuff, until..."
+            }
+        },
+        {
+            "media": {
+                "url": "https://th.bing.com/th/id/OIP.0cv0jiQcy9ydri3cWoU94wHaEK?w=3455&h=1942&rs=1&pid=ImgDetMain",
+                "caption": "Say hello to semiconductor industry daddy, Morris Chang."
+            },
+            "start_date": {
+                "year": "1987"
+            },
+            "text": {
+                "headline": "‘Winter is Coming’ — and it came! (mid ‘70s - mid 80s)",
+                "text": "Funding dried up, there wasn't enough data, compute power was costly and in short supply. Until Morris Change founded TSMC and saved the day. Meanwhile Jon Searle invented 'The Chinese Room Theory' and effectively called all computers at the time retarded. METAL."
+            }
+        },
+        {
+            "media": {
+                "url": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb13eb7cc-472b-4111-9f6d-30c14e6b40c4_500x579.png",
+                "caption": "This is you, yes you. Every day."
+            },
+            "start_date": {
+                "year": "2024"
+            },
+            "text": {
+                "headline": "Where do we go from here?",
+                "text": "No invention in the history of humanity; in its conception, development, advancement or destruction, existed in isolation from culture — be it from those who created it, those who use it or those who killed it."
+            }
+        },
+        {
+            "media": {
+                "url": "https://th.bing.com/th/id/OIP.k_oxgf5IAn3sSqKYSIqI3QHaEo?rs=1&pid=ImgDetMain",
+                "caption": "Cool picture, huh?"
+            },
+            "start_date": {
+                "year": "2025"
+            },
+            "text": {
+                "headline": "The culture of curiosity brought us this far.",
+                "text": "Stay curious."
+            }
+
+        }
+    ]
+
+}
